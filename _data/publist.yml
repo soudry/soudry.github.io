@@ -16,20 +16,20 @@
 
 
 - title: "Scaling FP8 training to trillion-token LLMs"
-  image: dummy.png
+  image: ScalingFP8.png
   description: We show how train to LLMs in FP8
   authors: M. Fishman, B. Chmiel, R. Banner, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2409.12517
-    display:  arxiv
-  highlight: 0
-  RefPro: 0
-  Preprint: 1
+    display:  ICLR 2025
+  highlight: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 
 - title: "Exponential Quantum Communication Advantage in Distributed Inference and Learning"
