@@ -1,6 +1,6 @@
 - title: "Foldable SuperNets: Scalable Merging of Transformers with Different Initializations and Tasks"
   image: dummy.png
-  description: We show how train to LLMs in FP8
+  description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
   authors: E. Kinderman, I. Hubara, H. Maron, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2409.12517
@@ -17,7 +17,7 @@
 
 - title: "Scaling FP8 training to trillion-token LLMs"
   image: ScalingFP8.png
-  description: We show how train to LLMs in FP8
+  description: We show how train to LLMs in FP8, even when trained at the scale of trillions of tokens. We analytically and empirically pinpoint the problem in the SwiGLU activation and propose a solution.
   authors: M. Fishman, B. Chmiel, R. Banner, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2409.12517
