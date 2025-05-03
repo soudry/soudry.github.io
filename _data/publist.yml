@@ -1,3 +1,19 @@
+- title: "When Diffusion Models Memorize: Inductive Biases in Probability Flow of Minimum-Norm Shallow Neural Nets"
+  image: dummy.png
+  description: We analytically solve score flow and probability for specific datasets, and show the implications for training data memorization.
+  authors: C. Zeno, H. Manor, G. Ongie, N. Weinberger, T. Michaeli, **D. Soudry**
+  link:
+    url: 
+    display:  ICML 2025
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 1
+
 - title: "Foldable SuperNets: Scalable Merging of Transformers with Different Initializations and Tasks"
   image: dummy.png
   description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
