@@ -1,6 +1,6 @@
 - title: "When Diffusion Models Memorize: Inductive Biases in Probability Flow of Minimum-Norm Shallow Neural Nets"
-  image: dummy.png
-  description: We analytically solve score flow and probability for specific datasets, and show the implications for training data memorization.
+  image: DiffusionMemorize.png
+  description: We analytically solve score- and probability-flows for certain datasets, and show the implications for training data memorization.
   authors: C. Zeno, H. Manor, G. Ongie, N. Weinberger, T. Michaeli, **D. Soudry**
   link:
     url: 
