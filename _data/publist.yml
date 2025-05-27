@@ -1,18 +1,68 @@
-- title: "When Diffusion Models Memorize: Inductive Biases in Probability Flow of Minimum-Norm Shallow Neural Nets"
-  image: DiffusionMemorize.png
-  description: We analytically solve score- and probability-flows for certain datasets, and show the implications for training data memorization.
-  authors: C. Zeno, H. Manor, G. Ongie, N. Weinberger, T. Michaeli, **D. Soudry**
+- title: "Temperature is All You Need for Generalization in Langevin Dynamics and other Markov Processes"
+  image: dummy.png
+  description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
+  authors: I. Harel, Y. Wolanowsky, G. Vardi, N. Srebro, **D. Soudry**
   link:
-    url: 
-    display:  ICML 2025
+    url: https://arxiv.org/abs/2505.19087
+    display:  arxiv
   highlight: 0
-  RefPro: 1
-  Preprint: 0
+  RefPro: 0
+  Preprint: 1
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 1
+  ERC: 0
+
+- title: "FP4 All the Way: Fully Quantized Training of LLMs"
+  image: dummy.png
+  description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
+  authors: B. Chmiel, M. Fishman, R. Banner, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2505.19115
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+- title: "Better Rates for Random Task Orderings in Continual Linear Models"
+  image: dummy.png
+  description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
+  authors: I. Evron*, R. Levinstein*, M. Schliserman*, U. Sherman*, T. Koren, D. Soudry, N. Srebro
+  link:
+    url: https://arxiv.org/abs/2504.04579
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+
+
+- title: "PLUMAGE: Probabilistic Low rank Unbiased Min Variance Gradient Estimator for Efficient Large Model Training"
+  image: dummy.png
+  description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
+  authors: M. Haroush, **D. Soudry**
+  link:
+    url: https://www.arxiv.org/abs/2505.18313
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
 
 - title: "Foldable SuperNets: Scalable Merging of Transformers with Different Initializations and Tasks"
   image: dummy.png
@@ -29,6 +79,25 @@
   Notes: 0
   news1: 
   ERC: 0
+
+
+
+
+- title: "When Diffusion Models Memorize: Inductive Biases in Probability Flow of Minimum-Norm Shallow Neural Nets"
+  image: DiffusionMemorize.png
+  description: We analytically solve score- and probability-flows for certain datasets, and show the implications for training data memorization.
+  authors: C. Zeno, H. Manor, G. Ongie, N. Weinberger, T. Michaeli, **D. Soudry**
+  link:
+    url: 
+    display:  ICML 2025
+  highlight: 0
+  RefPro: 1
+  Preprint: 0
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 1
 
 
 - title: "Scaling FP8 training to trillion-token LLMs"
