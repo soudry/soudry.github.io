@@ -1,4 +1,7 @@
 - date: --- January 11th 2025 ---
+  headline: The paper ["When Diffusion Models Memorize: Inductive Biases in Probability Flow of Minimum-Norm Shallow Neural Nets"] has been accepted at ICML 2025.
+
+- date: --- January 11th 2025 ---
   headline: The paper ["Scaling FP8 training to trillion-token LLMs"](https://arxiv.org/abs/2409.12517) has been accepted at ICLR 2025, as a Spotlight presentation!
 
 - date: --- September 25st 2024 ---

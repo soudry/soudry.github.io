@@ -33,7 +33,7 @@
 - title: "Better Rates for Random Task Orderings in Continual Linear Models"
   image: dummy.png
   description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
-  authors: I. Evron*, R. Levinstein*, M. Schliserman*, U. Sherman*, T. Koren, D. Soudry, N. Srebro
+  authors: I. Evron*, R. Levinstein*, M. Schliserman*, U. Sherman*, T. Koren, D. **Soudry**, N. Srebro
   link:
     url: https://arxiv.org/abs/2504.04579
     display:  arxiv
