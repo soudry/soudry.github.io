@@ -30,7 +30,7 @@
   news1: 
   ERC: 0
 
-- title: "Better Rates for Random Task Orderings in Continual Linear Models"
+- title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
   image: dummy.png
   description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
   authors: I. Evron*, R. Levinstein*, M. Schliserman*, U. Sherman*, T. Koren, D. **Soudry**, N. Srebro
