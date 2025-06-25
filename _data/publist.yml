@@ -30,6 +30,23 @@
   news1: 
   ERC: 0
 
+
+- title: "Tensor-Parallelism with Partially Synchronized Activations"
+  image: dummy.png
+  description: 
+  authors: I. Lamprecht, A. Karnieli, Y. Hanani, N. Giladi, D. Soudry
+  link:
+    url: https://arxiv.org/abs/2506.19645
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
 - title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
   image: dummy.png
   description: 
@@ -104,7 +121,7 @@
   description: We analytically solve score- and probability-flows for certain datasets, and show the implications for training data memorization.
   authors: C. Zeno, H. Manor, G. Ongie, N. Weinberger, T. Michaeli, **D. Soudry**
   link:
-    url: 
+    url: https://arxiv.org/abs/2506.19031
     display:  ICML 2025
   highlight: 0
   RefPro: 1
