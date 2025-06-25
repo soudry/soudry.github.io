@@ -34,7 +34,7 @@
 - title: "Tensor-Parallelism with Partially Synchronized Activations"
   image: dummy.png
   description: 
-  authors: I. Lamprecht, A. Karnieli, Y. Hanani, N. Giladi, D. Soudry
+  authors: I. Lamprecht, A. Karnieli, Y. Hanani, N. Giladi, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2506.19645
     display:  arxiv
