@@ -78,7 +78,7 @@ Talks for the general audience:
 - [On the age of deep learning and the revolution in artificial intelligence](https://www.youtube.com/watch?v=MJ1w4ne3F3I) (Hebrew), Rambam Staff meeting, 2019.
   
 Talks that require a machine learning background:
-
+- A youtuber I didn't even know made a very nice professional movie on our paper [FP4 All the Way: Fully Quantized Training of LLMs](https://www.youtube.com/watch?v=-cRedoYETzQ).
 - [On catastrophic forgetting in linear regression and the implicit bias of minima stability](https://www.youtube.com/watch?v=FlXSWTgTAng&t=1319s) (English), SlowDNN, Abu-Dhabi, 2022.
 - [Resource Efficiency and Algorithmic Bias Control in Deep Learning](https://www.youtube.com/watch?v=GYwJzVWkIVU) (Hebrew), MLIS 2022.
 - [Algorithmic Bias Control in Deep Learning](https://www.youtube.com/watch?v=H_jnKJ-dkjo) (English), Hebrew University, CS colloquium, 2020.
