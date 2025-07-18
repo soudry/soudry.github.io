@@ -103,11 +103,11 @@
   authors: E. Kinderman, I. Hubara, H. Maron, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2409.12517
-    display:  arxiv
+    display:  TMLR 2025
   highlight: 0
   RefPro: 0
-  Preprint: 1
-  JourPap: 0 
+  Preprint: 0
+  JourPap: 1
   RefAbs: 0
   Notes: 0
   news1: 
