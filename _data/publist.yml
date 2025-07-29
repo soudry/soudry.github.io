@@ -103,7 +103,7 @@
   authors: E. Kinderman, I. Hubara, H. Maron, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2409.12517
-    display:  TMLR 2025
+    display:  TMLR, 2025
   highlight: 0
   RefPro: 0
   Preprint: 0
@@ -874,7 +874,7 @@
   authors: S. Greshnikov, E. Rosenthal, **D. Soudry**, and S. Kvatinsky
   link:
     url:  https://www.semanticscholar.org/paper/A-fully-analog-memristor-based-neural-network-with-Rosenthal-Greshnikov/66879965418dedeadadd1761b386a1dbaa67c7b2
-    display:  Proceeding of the IEEE International Conference on Circuits and Systems, 2016
+    display:  Proceeding of the IEEE International Conference on Circuits and Systems 2016
   highlight: 0
   RefPro: 1
   JourPap: 0 
@@ -902,7 +902,7 @@
   authors:  D. B. Chklovskii and **D. Soudry**
   link:
     url:  https://papers.nips.cc/paper_files/paper/2012/hash/36660e59856b4de58a219bcf4e27eba3-Abstract.html
-    display:  NIPS, 2012
+    display:  NIPS 2012
   highlight: 0
   RefPro: 1
   JourPap: 0 
