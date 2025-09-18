@@ -12,7 +12,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 1
+  ERC: 0
 
 - title: "FP4 All the Way: Fully Quantized Training of LLMs"
   image: dummy.png
@@ -28,7 +28,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 1
+  ERC: 0
 
 
 - title: "Tensor-Parallelism with Partially Synchronized Activations"
@@ -45,7 +45,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 1
+  ERC: 0
 
 - title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
   image: dummy.png
@@ -61,7 +61,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 1
+  ERC: 0
 
 - title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
   image: dummy.png
