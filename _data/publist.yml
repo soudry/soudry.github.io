@@ -4,15 +4,15 @@
   authors: I. Harel, Y. Wolanowsky, G. Vardi, N. Srebro, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2505.19087
-    display:  arxiv
+    display:  NeurIPS 2025 Spotlight
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 - title: "FP4 All the Way: Fully Quantized Training of LLMs"
   image: dummy.png
@@ -20,15 +20,15 @@
   authors: B. Chmiel, M. Fishman, R. Banner, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2505.19115
-    display:  arxiv
+    display:  NeurIPS 2025 Spotlight
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 
 - title: "Tensor-Parallelism with Partially Synchronized Activations"
@@ -37,15 +37,15 @@
   authors: I. Lamprecht, A. Karnieli, Y. Hanani, N. Giladi, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2506.19645
-    display:  arxiv
+    display:  NeurIPS 2025
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 - title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
   image: dummy.png
@@ -53,15 +53,15 @@
   authors:  R. Levinstein *, Amit Attia *, Matan Schliserman *, Uri Sherman *, Tomer Koren, **D. Soudry**, Itay Evron
   link:
     url: https://arxiv.org/abs/2506.06501
-    display:  arxiv
+    display:  NeurIPS 2025
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 - title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
   image: dummy.png
