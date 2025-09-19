@@ -4,7 +4,7 @@
   authors: I. Harel, Y. Wolanowsky, G. Vardi, N. Srebro, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2505.19087
-    display:  NeurIPS 2025 Spotlight
+    display:  NeurIPS 2025 (Spotlight)
   highlight: 0
   RefPro: 1
   Preprint: 0
@@ -20,7 +20,7 @@
   authors: B. Chmiel, M. Fishman, R. Banner, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2505.19115
-    display:  NeurIPS 2025 Spotlight
+    display:  NeurIPS 2025 (Spotlight)
   highlight: 0
   RefPro: 1
   Preprint: 0
@@ -62,6 +62,8 @@
   Notes: 0
   news1: 
   ERC: 0
+
+
 
 - title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
   image: dummy.png
