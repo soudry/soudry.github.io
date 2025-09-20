@@ -33,7 +33,7 @@
 
 - title: "Tensor-Parallelism with Partially Synchronized Activations"
   image: CAATNet.png
-  description: Training LLM’s with tensor-parallelism without completely synchronizing activations to accelerate training and inference, reducing bandwidth by 50\%. 
+  description: Training LLM’s with tensor-parallelism without completely synchronizing activations to accelerate training and inference, reducing bandwidth by 50%. 
   authors: I. Lamprecht, A. Karnieli, Y. Hanani, N. Giladi, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2506.19645
@@ -63,6 +63,22 @@
   news1: 
   ERC: 0
 
+
+- title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
+  image: dummy.png
+  description: We prove that using regularization with either fixed or increasing strength yields near-optimal and optimal worst-case expected loss rates in realizable continual regression under random task orderings.
+  authors:  R. Levinstein *, Amit Attia *, Matan Schliserman *, Uri Sherman *, Tomer Koren, **D. Soudry**, Itay Evron
+  link:
+    url: https://arxiv.org/abs/2506.06501
+    display:  NeurIPS 2025
+  highlight: 0
+  RefPro: 1
+  Preprint: 0
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
 
 
 - title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
