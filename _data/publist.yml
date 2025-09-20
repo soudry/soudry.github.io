@@ -1,6 +1,6 @@
 - title: "Temperature is All You Need for Generalization in Langevin Dynamics and other Markov Processes"
-  image: dummy.png
-  description: 
+  image: TempartureAllYouNeed.png
+  description: We prove that adding noise to gradient flow leads to a simple yet strong generalization bound. 
   authors: I. Harel, Y. Wolanowsky, G. Vardi, N. Srebro, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2505.19087
@@ -16,7 +16,7 @@
 
 - title: "FP4 All the Way: Fully Quantized Training of LLMs"
   image: FP4FQT.png
-  description: 
+  description: We demonstrate for the first time, fully quantized training of  a 7B LLM using FP4 format.
   authors: B. Chmiel, M. Fishman, R. Banner, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2505.19115
@@ -32,24 +32,24 @@
 
 
 - title: "Tensor-Parallelism with Partially Synchronized Activations"
-  image: dummy.png
-  description: 
+  image: CATNet.png
+  description: Training LLM’s with tensor-parallelism without completely synchronizing activations to accelerate training and inference, reducing bandwidth by 50\%. 
   authors: I. Lamprecht, A. Karnieli, Y. Hanani, N. Giladi, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2506.19645
     display:  NeurIPS 2025
-  highlight: 0
+  highlight: 1
   RefPro: 1
   Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 - title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
   image: dummy.png
-  description: 
+  description: We prove that using regularization with either fixed or increasing strength yields near-optimal and optimal worst-case expected loss rates in realizable continual regression under random task orderings.
   authors:  R. Levinstein *, Amit Attia *, Matan Schliserman *, Uri Sherman *, Tomer Koren, **D. Soudry**, Itay Evron
   link:
     url: https://arxiv.org/abs/2506.06501
