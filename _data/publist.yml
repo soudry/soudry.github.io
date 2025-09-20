@@ -32,7 +32,7 @@
 
 
 - title: "Tensor-Parallelism with Partially Synchronized Activations"
-  image: CATNet.png
+  image: CAATNet.png
   description: Training LLM’s with tensor-parallelism without completely synchronizing activations to accelerate training and inference, reducing bandwidth by 50\%. 
   authors: I. Lamprecht, A. Karnieli, Y. Hanani, N. Giladi, **D. Soudry**
   link:
