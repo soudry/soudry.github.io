@@ -15,20 +15,20 @@
   ERC: 0
 
 - title: "FP4 All the Way: Fully Quantized Training of LLMs"
-  image: dummy.png
+  image: FP4FQT.png
   description: 
   authors: B. Chmiel, M. Fishman, R. Banner, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2505.19115
     display:  NeurIPS 2025 (Spotlight)
-  highlight: 0
+  highlight: 1
   RefPro: 1
   Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 
 - title: "Tensor-Parallelism with Partially Synchronized Activations"
