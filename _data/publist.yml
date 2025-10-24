@@ -61,7 +61,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 1
+  ERC: 0
 
 - title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
   image: dummy.png
@@ -81,11 +81,11 @@
 
 
 - title: "Are Greedy Task Orderings Better Than Random in Continual Linear Regression?"
-  image: M. Tsipory, R. Levinstein, I. Evron, M. Kong, D. Needell, **D. Soudry**
+  image: M. Tsipory *, R. Levinstein *, I. Evron *, M. Kong *, D. Needell, **D. Soudry**
   description: We find single-pass greedy task ordering can be empirically better, but can lead to catastrophic forgetting in the worst case. Allowing task reptition can prevent this.
   authors: H. Michaeli, **D. Soudry**
   link:
-    url: 
+    url: https://arxiv.org/abs/2510.19941
     display:  NeurIPS 2025
   highlight: 0
   RefPro: 1
@@ -94,7 +94,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 1
+  ERC: 0
 
 - title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
   image: dummy.png
