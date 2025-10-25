@@ -81,9 +81,9 @@
 
 
 - title: "Are Greedy Task Orderings Better Than Random in Continual Linear Regression?"
-  image: M. Tsipory *, R. Levinstein *, I. Evron *, M. Kong *, D. Needell, **D. Soudry**
+  image: dummy.png
   description: We find single-pass greedy task ordering can be empirically better, but can lead to catastrophic forgetting in the worst case. Allowing task reptition can prevent this.
-  authors: H. Michaeli, **D. Soudry**
+  authors:  M. Tsipory *, R. Levinstein *, I. Evron *, M. Kong *, D. Needell, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2510.19941
     display:  NeurIPS 2025
