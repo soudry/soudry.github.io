@@ -52,7 +52,7 @@
   description: Making vision transformer invariant to fractional translations. 
   authors: H. Michaeli, **D. Soudry**
   link:
-    url: 
+    url: https://arxiv.org/abs/2510.22673
     display:  NeurIPS 2025
   highlight: 0
   RefPro: 1
