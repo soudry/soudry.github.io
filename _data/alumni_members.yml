@@ -1,63 +1,70 @@
 - name: Edward Moroshko
   photo: edward1.jpg
-  education2:  <a href="https://www.linkedin.com/in/edward-moroshko-8b692444/">Homepage</a>
+  number_educ: 2
+  education2:  <a href="https://www.linkedin.com/in/edward-moroshko-8b692444/">Linkedin</a>
   info: Post-Doc
   
 - name: Elad Hoffer 
   photo: elads1.JPG
+  number_educ: 2
   education2:  <a href="https://eladhoffer.github.io/">Homepage</a>
   info: PhD 
 
 - name: Itay Golan 
   photo: itayg.JPG
-  education2: <a href="https://www.linkedin.com/in/golanitay/">Homepage</a>
+  number_educ: 2
+  education2: <a href="https://www.linkedin.com/in/golanitay/">Linkedin</a>
   info: MSc 
  
 
 - name: Brian Chmiel
   photo: brianc.JPG
-  education2: <a href="https://scholar.google.co.il/citations?user=2U8VtKsAAAAJ&hl=en">Homepage</a>
+  number_educ: 2
+  education2: <a href="https://scholar.google.co.il/citations?user=2U8VtKsAAAAJ&hl=en">Scholar</a>
   info: PhD (Shared PhD student with <a href="https://bron.cs.technion.ac.il/"> Alex Bronstein</a>)
   
 
 - name: Itay Hubara 
   photo: itayh.jpeg
-  education2:  <a href="https://scholar.google.co.il/citations?user=dyYryZYAAAAJ&hl=iw">Homepage</a>
+  number_educ: 2
+  education2:  <a href="https://scholar.google.co.il/citations?user=dyYryZYAAAAJ&hl=iw">Scholar</a>
   info: PhD 
  
 - name: Alon Brutzkus 
   photo: alonb.JPG
-  education2: <a href="https://scholar.google.com/citations?user=m1wmXdgAAAAJ&hl=iw">Homepage</a>
+  number_educ: 2
+  education2: <a href="https://scholar.google.com/citations?user=m1wmXdgAAAAJ&hl=iw">Scholar</a>
   info: Post-Doc 
   
-- name: Liad Ben-Ori 
+- name: Liad Ben-Uri 
   photo: dummyface.jpg
   info: MSc 
-  education2: <a href="https://www.linkedin.com/in/liad-ben-uri-58a034167">Homepage</a> 
+  number_educ: 2
+  education2: <a href="https://www.linkedin.com/in/liad-ben-uri-58a034167">Linkedin</a> 
 
 - name: Niv Giladi
   photo: niv_orig.jpg
   info: PhD student
   number_educ: 2
-  education2: <a href="https://www.linkedin.com/in/niv-giladi-814447127/">Homepage</a>
+  education2: <a href="https://www.linkedin.com/in/niv-giladi-814447127/">Linkedin</a>
   
 - name: Mor Shpigel-Nacson
   photo: mor1.jpg
   info: PhD student
   number_educ: 2
-  education2: <a href="https://www.linkedin.com/in/mor-shpigel-nacson-096727183/">Homepage</a>
+  education2: <a href="https://www.linkedin.com/in/mor-shpigel-nacson-096727183/">Linkedin</a>
   
 - name: Tzofnat Greenberg-Toledo
   photo: tzofant1.jpg
   info:  PhD (Shared PhD student with [Shahar kvatinsky ](https://kvatinsky.com/))
   number_educ: 2
-  education2: <a href="https://www.linkedin.com/in/tzofnat-greenberg-53442a19/?originalSubdomain=il">Homepage</a>
+  education2: <a href="https://www.linkedin.com/in/tzofnat-greenberg-53442a19/?originalSubdomain=il">Linkedin</a>
   
 - name: Shachar Gottlieb
   photo: ShacharGottlieb.jpeg
   info: MSc Student 
   number_educ: 2
-  education2: <a href="https://www.linkedin.com/in/shahar-gottlieb-b4a58a232/?originalSubdomain=il">Homepage</a>
+  education2: <a href="https://www.linkedin.com/in/shahar-gottlieb-b4a58a232/?originalSubdomain=il">Linkedin</a>
 
 - name: Itay Evron
   photo: ItayEvronNew.jpg
@@ -71,14 +78,14 @@
   info: PhD student
   email: chenzeno@campus.technion.ac.il
   number_educ: 2
-  education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
+  education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Scholar</a>
 
 - name: Yaniv Blumenfeld 
   photo: yaniv2.jpg
   info: PhD student
   email: yanivbl@campus.technion.ac.il
   number_educ: 2
-  education2: <a href="https://www.linkedin.com/in/yaniv-blumenfeld-6103b516b/">Homepage</a>
+  education2: <a href="https://www.linkedin.com/in/yaniv-blumenfeld-6103b516b/">Linkedin</a>
 
 - name: Edan Kinderman
   photo: idan1.jpeg
@@ -86,7 +93,7 @@
   email: kinderman@campus.technion.ac.il
   number_educ: 2
   education1: <a href="mailto:kinderman@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/edan-kinderman-1320611b8/?originalSubdomain=il">Homepage</a>
+  education2: <a href="https://www.linkedin.com/in/edan-kinderman-1320611b8/?originalSubdomain=il">Linkedin</a>
 
 - name: Gon Buzaglo
   photo: Gon.jpg
