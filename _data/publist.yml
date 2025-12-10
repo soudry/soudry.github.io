@@ -1,3 +1,20 @@
+- title: "Block Sparse Flash Attention"
+  image: dummy.png
+  description: Combing Flash Attention with block sparsity to achieve easy acceleration
+  authors: D. Ohayon, I. Lamprecht, I. Hubara, I. Cohen, D. Soudry, N. Elata. 
+  link:
+    url: https://arxiv.org/abs/2512.07011
+    display:  Arxiv
+  highlight: 9
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+
 - title: "Temperature is All You Need for Generalization in Langevin Dynamics and other Markov Processes"
   image: TempartureAllYouNeed.png
   description: We prove that adding noise to gradient flow leads to a simple yet strong generalization bound. 
