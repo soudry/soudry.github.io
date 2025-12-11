@@ -34,6 +34,10 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/danielslider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
+          <h4> Students from Team Presenting at NeurIPS 2025 </h4>
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GroupNeurIPS25.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
              <h4> <a href="https://arxiv.org/abs/1912.01274">Synthetic data generated from a classifier and used to quantize it </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/1912.01274"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider2.jpg" alt="Synthetic data generated from a classifier and used to quantize it" /> </a>
         </div>
@@ -48,7 +52,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
         <div class="item">
           <h4> <a href="https://arxiv.org/abs/2305.13064">How does gradient descent reach the Edge of Stability? </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/2305.13064"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaosslider22.jpg" alt="How gradient descent reaches the Edge of Stability?" /> </a>
-        </div>
+        </div>        
      </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
