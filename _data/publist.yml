@@ -113,16 +113,33 @@
   news1: 
   ERC: 0
 
+- title: "Optimal L2 Regularization in High-dimensional Continual Linear Regression"
+  image: dummy.png
+  description: 
+  authors: G. Karpel, E. Moroshko, R. Levinstein, R. Meir, **D. Soudry**, I. Evron
+  link:
+    url: 
+    display:  ALT 2026
+  highlight: 0
+  RefPro: 1
+  Preprint: 0
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+
 - title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
   image: dummy.png
   description: 
   authors: I. Evron *, R. Levinstein *, M. Schliserman *, U. Sherman *, T. Koren,  **D. Soudry**, N. Srebro
   link:
     url: https://arxiv.org/abs/2504.04579
-    display:  arxiv
+    display:  ALT 2026
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
