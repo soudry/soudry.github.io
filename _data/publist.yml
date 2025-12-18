@@ -1,3 +1,34 @@
+- title: "Block Sparse Flash Attention"
+  image: dummy.png
+  description: Combing Flash Attention with block sparsity to achieve easy acceleration
+  authors: D. Ohayon, I. Lamprecht, I. Hubara, I. Cohen, **D. Soudry**, N. Elata. 
+  link:
+    url: https://arxiv.org/abs/2512.07011
+    display:  arxiv
+  highlight: 9
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+- title: "PLUMAGE: Probabilistic Low rank Unbiased Min Variance Gradient Estimator for Efficient Large Model Training"
+  image: dummy.png
+  description:  
+  authors: M. Haroush, **D. Soudry**
+  link:
+    url: https://www.arxiv.org/abs/2505.18313
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
 
 - title: "Optimal L2 Regularization in High-dimensional Continual Linear Regression"
   image: dummy.png
@@ -33,21 +64,7 @@
   ERC: 0
 
 
-- title: "Block Sparse Flash Attention"
-  image: dummy.png
-  description: Combing Flash Attention with block sparsity to achieve easy acceleration
-  authors: D. Ohayon, I. Lamprecht, I. Hubara, I. Cohen, **D. Soudry**, N. Elata. 
-  link:
-    url: https://arxiv.org/abs/2512.07011
-    display:  arxiv
-  highlight: 9
-  RefPro: 0
-  Preprint: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news1: 
-  ERC: 0
+
 
 
 - title: "Temperature is All You Need for Generalization in Langevin Dynamics and other Markov Processes"
@@ -118,7 +135,7 @@
 - title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
   image: dummy.png
   description: We prove that using regularization with either fixed or increasing strength yields near-optimal and optimal worst-case expected loss rates in realizable continual regression under random task orderings.
-  authors:  R. Levinstein *, Amit Attia *, Matan Schliserman *, Uri Sherman *, Tomer Koren, **D. Soudry**, Itay Evron
+  authors:  R. Levinstein *, A. Attia *, M. Schliserman *, U. Sherman *, T. Koren, **D. Soudry**, Itay Evron
   link:
     url: https://arxiv.org/abs/2506.06501
     display:  NeurIPS 2025
@@ -142,22 +159,6 @@
   highlight: 0
   RefPro: 1
   Preprint: 0
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news1: 
-  ERC: 0
-
-- title: "PLUMAGE: Probabilistic Low rank Unbiased Min Variance Gradient Estimator for Efficient Large Model Training"
-  image: dummy.png
-  description:  
-  authors: M. Haroush, **D. Soudry**
-  link:
-    url: https://www.arxiv.org/abs/2505.18313
-    display:  arxiv
-  highlight: 0
-  RefPro: 0
-  Preprint: 1
   JourPap: 0 
   RefAbs: 0
   Notes: 0
