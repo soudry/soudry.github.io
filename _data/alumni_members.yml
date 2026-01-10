@@ -110,3 +110,11 @@
   number_educ: 1
   education1: <a href="mailto:itamarharel@campus.technion.ac.il">Email</a>
   education2: <a href="">Homepage</a>
+  
+- name: Gil Denekamp
+  photo: gilD.png
+  info: MSc Student 
+  email: gil.denekamp@campus.technion.ac.il
+  number_educ: 1
+  education1: <a href="mailto:gil.denekamp@campus.technion.ac.il">Email</a>
+  education2: <a href="">Homepage</a>
