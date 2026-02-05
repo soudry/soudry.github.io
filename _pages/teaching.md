@@ -13,5 +13,5 @@ permalink: /teaching/
  - **046326** Introduction to Biological Signals and Systems
  - **046195** Introduction to Machine learning 
 
- More Info about these courses can be found in the [Technion moodle](https://moodle2324.technion.ac.il/).
+ More info about these courses can be found in the [Technion moodle](https://moodle.technion.ac.il/).
 
