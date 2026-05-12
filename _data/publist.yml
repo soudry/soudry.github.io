@@ -30,6 +30,22 @@
   news1: 
   ERC: 0
 
+- title: "Workspace Optimization: How to Train Your Agent"
+  image: dummy.png
+  description: Combing Flash Attention with block sparsity to achieve easy acceleration
+  authors: E. Sarafian, G. Kaplun, R. Banner, D. Soudry, B. Ginsburg 
+  link:
+    url: https://arxiv.org/abs/2605.09650
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
 - title: "Block Sparse Flash Attention"
   image: dummy.png
   description: Combing Flash Attention with block sparsity to achieve easy acceleration
