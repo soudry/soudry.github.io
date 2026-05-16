@@ -1,7 +1,7 @@
 - title: "Retrieval from Within: An Intrinsic Capability of Attention-Based Models"
   image: dummy.png
   description: Combing Flash Attention with block sparsity to achieve easy acceleration
-  authors: E. Hoffer, Y. Blau, R. Banner, D. Soudry, B. Ginsburg 
+  authors: E. Hoffer, Y. Blau, R. Banner, **D. Soudry**, B. Ginsburg 
   link:
     url: https://arxiv.org/abs/2605.05806
     display:  arxiv
@@ -17,7 +17,7 @@
 - title: "Normalized Architectures are Natively 4-Bit"
   image: dummy.png
   description: Combing Flash Attention with block sparsity to achieve easy acceleration
-  authors: M. Fishman, B. Chmiel, R. Banner, D. Soudry, B. Ginsburg
+  authors: M. Fishman, B. Chmiel, R. Banner, **D. Soudry**, B. Ginsburg
   link:
     url: https://arxiv.org/abs/2605.06067
     display:  arxiv
@@ -33,7 +33,7 @@
 - title: "Workspace Optimization: How to Train Your Agent"
   image: dummy.png
   description: Combing Flash Attention with block sparsity to achieve easy acceleration
-  authors: E. Sarafian, G. Kaplun, R. Banner, D. Soudry, B. Ginsburg 
+  authors: E. Sarafian, G. Kaplun, R. Banner, **D. Soudry**, B. Ginsburg 
   link:
     url: https://arxiv.org/abs/2605.09650
     display:  arxiv
