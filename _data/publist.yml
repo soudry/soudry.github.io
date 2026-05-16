@@ -78,6 +78,23 @@
   news1: 
   ERC: 0
 
+- title: "Convergence of Continual Learning in Homogeneous Deep Networks"
+  image: dummy.png
+  description: 
+  authors: M. Schliserman, G. Buzaglo, I. Evron, **D. Soudry**
+  link:
+    url: 
+    display:  COLT 2026
+  highlight: 0
+  RefPro: 1
+  Preprint: 0
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 1
+
+
 - title: "Optimal L2 Regularization in High-dimensional Continual Linear Regression"
   image: dummy.png
   description: 
@@ -92,7 +109,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 
 - title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
