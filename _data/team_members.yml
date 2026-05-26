@@ -74,7 +74,13 @@
   education2: <a href="www.linkedin.com/in/shalev-hermon-5b43561a4/">LinkedIn</a>
 
 
-
+- name: Ofir Gaash
+  photo: Ofir_Gaash.jpg
+  info: PhD student
+  email: gaash.ofir@gmail.com
+  number_educ: 2
+  education1: <a href="mailto:gaash.ofir@gmail.com">Email</a>
+  education2: <a href="https://www.linkedin.com/in/ofirgaash//">LinkedIn</a>
 
 
 
