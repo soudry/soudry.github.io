@@ -79,11 +79,11 @@
   ERC: 0
 
 - title: "Convergence of Continual Learning in Homogeneous Deep Networks"
-  image: dummy.png
+  image: CL_Nonlinear.png
   description: 
   authors: M. Schliserman, G. Buzaglo, I. Evron, **D. Soudry**
   link:
-    url: 
+    url: https://arxiv.org/abs/2606.30559
     display:  COLT 2026
   highlight: 0
   RefPro: 1
@@ -96,7 +96,7 @@
 
 
 - title: "Optimal L2 Regularization in High-dimensional Continual Linear Regression"
-  image: dummy.png
+  image: CL_OptimalL2.png
   description: 
   authors: G. Karpel, E. Moroshko, R. Levinstein, R. Meir, **D. Soudry**, I. Evron
   link:
@@ -113,7 +113,7 @@
 
 
 - title: "From Continual Learning to SGD and Back: Better Rates for Continual Linear Models"
-  image: dummy.png
+  image: CL_2SGDandBack.png
   description: 
   authors: I. Evron *, R. Levinstein *, M. Schliserman *, U. Sherman *, T. Koren,  **D. Soudry**, N. Srebro
   link:
@@ -126,7 +126,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 
 
@@ -182,7 +182,7 @@
   ERC: 1
 
 - title: "Alias-Free ViT: Fractional Shift Invariance via Linear Attention"
-  image: dummy.png
+  image: AliasFreeTransformer.png
   description: Making vision transformer invariant to fractional translations. 
   authors: H. Michaeli, **D. Soudry**
   link:
@@ -195,10 +195,10 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 - title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
-  image: dummy.png
+  image: CL_OpitmalRates.png
   description: We prove that using regularization with either fixed or increasing strength yields near-optimal and optimal worst-case expected loss rates in realizable continual regression under random task orderings.
   authors:  R. Levinstein *, A. Attia *, M. Schliserman *, U. Sherman *, T. Koren, **D. Soudry**, Itay Evron
   link:
@@ -211,11 +211,11 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 
 - title: "Are Greedy Task Orderings Better Than Random in Continual Linear Regression?"
-  image: dummy.png
+  image: CL_Greedy.png
   description: We find single-pass greedy task ordering can be empirically better, but can lead to catastrophic forgetting in the worst case. Allowing task reptition can prevent this.
   authors:  M. Tsipory *, R. Levinstein *, I. Evron *, M. Kong *, D. Needell, **D. Soudry**
   link:
@@ -228,10 +228,10 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 - title: "Foldable SuperNets: Scalable Merging of Transformers with Different Initializations and Tasks"
-  image: dummy.png
+  image: FoldableSuperNets.png
   description: We show how to merge two transformer models into one, even when trained from different inits and tasks (which cannot be done by previous methods). 
   authors: E. Kinderman, I. Hubara, H. Maron, **D. Soudry**
   link:
@@ -244,7 +244,7 @@
   RefAbs: 0
   Notes: 0
   news1: 
-  ERC: 0
+  ERC: 1
 
 
 
