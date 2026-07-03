@@ -198,7 +198,7 @@
   ERC: 1
 
 - title: "Optimal Rates in Continual Linear Regression via Increasing Regularization"
-  image: CL_OpitmalRates.png
+  image: CL_OptimalRates.png
   description: We prove that using regularization with either fixed or increasing strength yields near-optimal and optimal worst-case expected loss rates in realizable continual regression under random task orderings.
   authors:  R. Levinstein *, A. Attia *, M. Schliserman *, U. Sherman *, T. Koren, **D. Soudry**, Itay Evron
   link:
