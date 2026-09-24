@@ -1,10 +1,58 @@
+- title: "Global Convergence in Deep Networks via the Second Law of Thermodynamics"
+  image: dummy.png
+  description: Accelerating LLM decoding by utilizing sparse attention matrices with an asymetric number of key and value heads.
+  authors: M. Tsipory, O. Gaash, I. Harel, N. Srebro, **D. Soudry**
+  link:
+    url: 
+    display:  NeurIPS 2026
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+- title: "More Value per Key: Asymmetric Sparse Attention for Faster LLM Decoding"
+  image: dummy.png
+  description: Accelerating LLM decoding by utilizing sparse attention matrices with an asymetric number of key and value heads.
+  authors: N. Elata *, I. Lamprecht *, M. Shechter *, D. Ohayon, I. Hubara, **D. Soudry**
+  link:
+    url: 
+    display:  NeurIPS 2026
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+- title: "Positional Encoding Is All You Need For Scalable Equivariance Constraint Relaxation"
+  image: dummy.png
+  description: Positional encoding is useful to break symmetry in equvariant model during training and improve optimization.
+  authors: H. Michaeli, H. Marron, **D. Soudry**
+  link:
+    url: 
+    display:  NeurIPS 2026
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
 - title: "Retrieval from Within: An Intrinsic Capability of Attention-Based Models"
   image: dummy.png
-  description: Combing Flash Attention with block sparsity to achieve easy acceleration
+  description: We show to do retrival using the model's own attention
   authors: E. Hoffer, Y. Blau, R. Banner, **D. Soudry**, B. Ginsburg 
   link:
     url: https://arxiv.org/abs/2605.05806
-    display:  arxiv
+    display:  NeurIPS 2026
   highlight: 0
   RefPro: 0
   Preprint: 1
@@ -16,14 +64,14 @@
 
 - title: "Normalized Architectures are Natively 4-Bit"
   image: dummy.png
-  description: Combing Flash Attention with block sparsity to achieve easy acceleration
+  description: We show normalized GPT architectures improve accuracy with 4-bit quantized training.
   authors: M. Fishman, B. Chmiel, R. Banner, **D. Soudry**, B. Ginsburg
   link:
     url: https://arxiv.org/abs/2605.06067
-    display:  arxiv
+    display:  NeurIPS 2026
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
@@ -32,17 +80,17 @@
 
 - title: "Workspace Optimization: How to Train Your Agent"
   image: dummy.png
-  description: Combing Flash Attention with block sparsity to achieve easy acceleration
+  description: A generalized harness to acheive SOTA on ARC-AGI3
   authors: E. Sarafian, G. Kaplun, R. Banner, **D. Soudry**, B. Ginsburg 
   link:
     url: https://arxiv.org/abs/2605.09650
     display:  arxiv
   highlight: 0
   RefPro: 0
-  Preprint: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
-  Notes: 0
+  Notes: 1
   news1: 
   ERC: 0
 
@@ -52,10 +100,10 @@
   authors: D. Ohayon, I. Lamprecht, I. Hubara, I. Cohen, **D. Soudry**, N. Elata. 
   link:
     url: https://arxiv.org/abs/2512.07011
-    display:  arxiv
+    display:  NeurIPS 2026
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
