@@ -1,3 +1,19 @@
+- title: "Optimal Explicit and Implicit Regularization Strengths in High-Dimensional Continual Linear Regression"
+  image: dummy.png
+  description: 
+  authors: G. Karpel, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2610.08463v1
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
 - title: "UNREAL: Unifying Retrieval and Long-Context with a Single Model"
   image: dummy.png
   description: 
