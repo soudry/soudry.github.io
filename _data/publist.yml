@@ -35,7 +35,7 @@
   description: Accelerating LLM decoding by utilizing sparse attention matrices with an asymetric number of key and value heads.
   authors: M. Tsipory, O. Gaash, I. Harel, N. Srebro, **D. Soudry**
   link:
-    url: 
+    url: https://arxiv.org/abs/2610.24775
     display:  NeurIPS 2026
   highlight: 0
   RefPro: 1
