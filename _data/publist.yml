@@ -1,3 +1,19 @@
+- title: "Continual Classification Beyond the Kernel Regime: Harnessing the Sparsity Bias of L2 Regularization in Diagonal Linear Networks"
+  image: dummy.png
+  description: 
+  authors: G Karpel, I Evron, R Meir, **D. Soudry**
+  link:
+    url: https://arxiv.org/abs/2611.06759v1
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
 - title: "Optimal Explicit and Implicit Regularization Strengths in High-Dimensional Continual Linear Regression"
   image: dummy.png
   description: 
@@ -67,7 +83,7 @@
   description: Positional encoding is useful to break symmetry in equvariant model during training and improve optimization.
   authors: H. Michaeli, H. Marron, **D. Soudry**
   link:
-    url: 
+    url: https://arxiv.org/2611.05041
     display:  NeurIPS 2026
   highlight: 0
   RefPro: 1
